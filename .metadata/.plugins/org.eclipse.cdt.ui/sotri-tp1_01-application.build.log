@@ -1,0 +1,10 @@
+08:14:33 **** Incremental Build of configuration Debug for project sotri-tp1_01-application ****
+make -j32 all 
+arm-none-eabi-size  sotri-tp1_01-application.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25100	    160	  18720	  43980	   abcc	sotri-tp1_01-application.elf
+Finished building: default.size.stdout
+ 
+
+08:14:34 Build Finished. 0 errors, 0 warnings. (took 127ms)
+
