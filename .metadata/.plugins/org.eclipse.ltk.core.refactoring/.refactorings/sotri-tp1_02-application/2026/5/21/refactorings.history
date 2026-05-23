@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sotri-tp1_02-application/sotri-tp1_01-application.ioc&apos; to &apos;sotri-tp1_02-application.ioc&apos;" description="Rename resource &apos;sotri-tp1_01-application.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="sotri-tp1_01-application.ioc" name="sotri-tp1_02-application.ioc" stamp="1779543827827" updateReferences="true"/>
+</session>

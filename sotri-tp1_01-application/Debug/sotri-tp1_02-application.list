@@ -1,5 +1,5 @@
 
-sotri-tp1_01-application.elf:     file format elf32-littlearm
+sotri-tp1_02-application.elf:     file format elf32-littlearm
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
